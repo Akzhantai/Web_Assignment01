@@ -60,6 +60,7 @@
 ``
 
 ``css
+
 body {
   margin: 0;
   padding: 0;
@@ -119,4 +120,5 @@ footer {
   background-color: #333;
   color: #fff;
 }
+
 ``
